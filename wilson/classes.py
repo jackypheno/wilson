@@ -1,7 +1,7 @@
 """Main classes used at the top level of the wilson package:
 
 `Wilson`: main interface to the wilson package, providing automatic running
-and matching in SMEFT, nuSMEFT and WET
+and matching in SMEFT and WET and running within nuSMEFT.
 
 `RGsolution`: Class representing a continuous solution to the
 SMEFT and WET RGEs to be used for plotting.
